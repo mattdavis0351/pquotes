@@ -15,7 +15,4 @@ var RootCmd = &cobra.Command{
 	Use:   "tech-quote",
 	Short: "tech-quote inspires you",
 	Long:  "tech-quote returns quotes to your terminal to inspire you to code better",
-	Run: func(cmd *cobra.Command, args []string) {
-
-	},
 }
